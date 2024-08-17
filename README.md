@@ -15,11 +15,15 @@ Welcome to the **Search Algorithms in Python** repository! This project contains
 - [Contributing](#contributing)
 - [License](#license)
 
+
 ## Introduction
 
 Search algorithms are a fundamental aspect of computer science, playing a critical role in problem-solving across various domains. This repository offers a hands-on exploration of these algorithms, providing both theoretical insights and practical Python implementations.
 
+
 ## Algorithms
+
+
 
 ### Depth-First Search (DFS)
 
@@ -56,11 +60,6 @@ Best First Search uses a heuristic to determine the most promising path, balanci
 ## Contributing
 Contributions are welcome! Whether you're fixing bugs, improving documentation, or adding new features, feel free to submit a pull request.
 
-Fork the repository.
-Create your feature branch (git checkout -b feature/YourFeature).
-Commit your changes (git commit -am 'Add YourFeature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
 
 ## License
-This project is licensed under the MIT License—see the LICENSE file for details.
+This project is licensed under the MIT License
