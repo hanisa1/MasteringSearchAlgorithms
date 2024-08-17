@@ -2,7 +2,7 @@
 
 ![Search Algorithms](https://github.com/user-attachments/assets/e6628244-1103-4281-93cc-a1da067a4e3f)
 
-Welcome to the **Mastering Search Algorithms in Python** repository! This project contains various implementations of fundamental search algorithms, including Depth-First Search (DFS), Breadth-First Search (BFS), Uniform Cost Search (UCS), and Best First Search, all written in clean, simple Python without any external libraries.
+Welcome to the **Search Algorithms in Python** repository! This project contains various implementations of fundamental search algorithms, including Depth-First Search (DFS), Breadth-First Search (BFS), Uniform Cost Search (UCS), and Best First Search, all written in clean, simple Python without any external libraries.
 
 ## Table of Contents
 
